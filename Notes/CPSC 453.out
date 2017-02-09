@@ -1,0 +1,89 @@
+\BOOKMARK [1][-]{section.1}{September 12, 2016}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Topics Covered in Class}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{September 14, 2016}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Computer Graphics}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Light, Colour, and Displays}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{September 16, 2016}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Graphic Displays}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Additive Color Blending}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{Resolution}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{September 19, 2016 - September 21, 2016}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{Geometric Representation}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{September 23, 2016}{}% 12
+\BOOKMARK [2][-]{subsection.5.1}{Graphics Systems}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.2}{Graphics Pipeline}{section.5}% 14
+\BOOKMARK [1][-]{section.6}{September 26, 2016}{}% 15
+\BOOKMARK [2][-]{subsection.6.1}{Interpolation}{section.6}% 16
+\BOOKMARK [2][-]{subsection.6.2}{Use of Interpolation}{section.6}% 17
+\BOOKMARK [2][-]{subsection.6.3}{Two-Dimensional Interpolation}{section.6}% 18
+\BOOKMARK [1][-]{section.7}{September 28, 2016}{}% 19
+\BOOKMARK [2][-]{subsection.7.1}{Sampling}{section.7}% 20
+\BOOKMARK [2][-]{subsection.7.2}{Digital Audio and Music}{section.7}% 21
+\BOOKMARK [2][-]{subsection.7.3}{Frequency Content of Shapes}{section.7}% 22
+\BOOKMARK [1][-]{section.8}{September 30, 2016}{}% 23
+\BOOKMARK [2][-]{subsection.8.1}{Convolution and Digital Image Effects}{section.8}% 24
+\BOOKMARK [2][-]{subsection.8.2}{Convolution in 2D}{section.8}% 25
+\BOOKMARK [1][-]{section.9}{October 3, 2016}{}% 26
+\BOOKMARK [2][-]{subsection.9.1}{Blurring}{section.9}% 27
+\BOOKMARK [2][-]{subsection.9.2}{Signal Reconstruction}{section.9}% 28
+\BOOKMARK [2][-]{subsection.9.3}{Colour Conversion}{section.9}% 29
+\BOOKMARK [2][-]{subsection.9.4}{Review of Vectors}{section.9}% 30
+\BOOKMARK [1][-]{section.10}{October 5, 2016}{}% 31
+\BOOKMARK [2][-]{subsection.10.1}{Vectors Review}{section.10}% 32
+\BOOKMARK [1][-]{section.11}{October 7, 2016}{}% 33
+\BOOKMARK [2][-]{subsection.11.1}{Vectors Review}{section.11}% 34
+\BOOKMARK [2][-]{subsection.11.2}{Basis Conversion}{section.11}% 35
+\BOOKMARK [1][-]{section.12}{October 12, 2016}{}% 36
+\BOOKMARK [2][-]{subsection.12.1}{Basis Conversion Cont'd}{section.12}% 37
+\BOOKMARK [2][-]{subsection.12.2}{Reference Frames}{section.12}% 38
+\BOOKMARK [2][-]{subsection.12.3}{Transformation Matrices}{section.12}% 39
+\BOOKMARK [2][-]{subsection.12.4}{Composing Transformations}{section.12}% 40
+\BOOKMARK [1][-]{section.13}{October 14, 2016}{}% 41
+\BOOKMARK [2][-]{subsection.13.1}{Bezier Curves}{section.13}% 42
+\BOOKMARK [2][-]{subsection.13.2}{Properties of Bezier Curves}{section.13}% 43
+\BOOKMARK [1][-]{section.14}{October 17, 2016}{}% 44
+\BOOKMARK [2][-]{subsection.14.1}{Bezier Splines}{section.14}% 45
+\BOOKMARK [2][-]{subsection.14.2}{Cubic Bezier Curves}{section.14}% 46
+\BOOKMARK [1][-]{section.15}{October 19, 2016}{}% 47
+\BOOKMARK [2][-]{subsection.15.1}{Typography}{section.15}% 48
+\BOOKMARK [2][-]{subsection.15.2}{History of Type}{section.15}% 49
+\BOOKMARK [2][-]{subsection.15.3}{Categorizing Typefaces}{section.15}% 50
+\BOOKMARK [2][-]{subsection.15.4}{Typeface Nomenclature}{section.15}% 51
+\BOOKMARK [1][-]{section.16}{October 21, 2016}{}% 52
+\BOOKMARK [2][-]{subsection.16.1}{Digital Type}{section.16}% 53
+\BOOKMARK [2][-]{subsection.16.2}{Representations in Digital Form}{section.16}% 54
+\BOOKMARK [2][-]{subsection.16.3}{Rendering Text with Digital Type}{section.16}% 55
+\BOOKMARK [2][-]{subsection.16.4}{OpenGL Graphics Pipeline}{section.16}% 56
+\BOOKMARK [1][-]{section.17}{October 24, 2016}{}% 57
+\BOOKMARK [2][-]{subsection.17.1}{Image Formation}{section.17}% 58
+\BOOKMARK [2][-]{subsection.17.2}{Focusing}{section.17}% 59
+\BOOKMARK [1][-]{section.18}{October 26, 2016}{}% 60
+\BOOKMARK [2][-]{subsection.18.1}{Anatomy of the Digital Camera}{section.18}% 61
+\BOOKMARK [2][-]{subsection.18.2}{The Digital Revolution}{section.18}% 62
+\BOOKMARK [1][-]{section.19}{October 28, 2016}{}% 63
+\BOOKMARK [2][-]{subsection.19.1}{Ray Tracing}{section.19}% 64
+\BOOKMARK [2][-]{subsection.19.2}{Ray Generation}{section.19}% 65
+\BOOKMARK [1][-]{section.20}{October 31, 2016}{}% 66
+\BOOKMARK [2][-]{subsection.20.1}{Ray Intersection}{section.20}% 67
+\BOOKMARK [1][-]{section.21}{November 4, 2016}{}% 68
+\BOOKMARK [2][-]{subsection.21.1}{Materials and Shading}{section.21}% 69
+\BOOKMARK [1][-]{section.22}{November 7, 2016}{}% 70
+\BOOKMARK [2][-]{subsection.22.1}{Materials and Shading Cont'd}{section.22}% 71
+\BOOKMARK [1][-]{section.23}{November 14, 2016}{}% 72
+\BOOKMARK [2][-]{subsection.23.1}{Texture Mapping}{section.23}% 73
+\BOOKMARK [1][-]{section.24}{November 16, 2016}{}% 74
+\BOOKMARK [2][-]{subsection.24.1}{Texture Sampling}{section.24}% 75
+\BOOKMARK [2][-]{subsection.24.2}{Surface Properties}{section.24}% 76
+\BOOKMARK [1][-]{section.25}{November 18, 2016}{}% 77
+\BOOKMARK [2][-]{subsection.25.1}{3D Vectors Review}{section.25}% 78
+\BOOKMARK [1][-]{section.26}{November 21, 2016}{}% 79
+\BOOKMARK [2][-]{subsection.26.1}{3D Transformation Matrices}{section.26}% 80
+\BOOKMARK [1][-]{section.27}{November 23, 2016}{}% 81
+\BOOKMARK [2][-]{subsection.27.1}{Coordinate Transformations}{section.27}% 82
+\BOOKMARK [1][-]{section.28}{November 25, 2016}{}% 83
+\BOOKMARK [2][-]{subsection.28.1}{Scene Graphs}{section.28}% 84
+\BOOKMARK [2][-]{subsection.28.2}{View Position}{section.28}% 85
+\BOOKMARK [1][-]{section.29}{November 28, 2016}{}% 86
+\BOOKMARK [2][-]{subsection.29.1}{Perspective Transform}{section.29}% 87
+\BOOKMARK [1][-]{section.30}{November 30, 2016}{}% 88
+\BOOKMARK [2][-]{subsection.30.1}{Hidden Surface Removal}{section.30}% 89
